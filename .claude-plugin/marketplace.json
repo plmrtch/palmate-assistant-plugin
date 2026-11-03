@@ -1,0 +1,17 @@
+{
+  "name": "palmate-claude",
+  "owner": {"name": "Palmate"},
+  "metadata": {
+    "description": "Palmate for Claude on the web, desktop and mobile: the Palmate connector and its skills."
+  },
+  "plugins": [
+    {
+      "name": "palmate",
+      "source": "./plugins/palmate",
+      "description": "Use Palmate from Claude: read your chatbot projects, conversations and statistics, and ask Palmate for changes as change requests.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["palmate", "chatbot", "customer support"]
+    }
+  ]
+}

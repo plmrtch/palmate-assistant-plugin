@@ -1,0 +1,9 @@
+{
+  "name": "palmate",
+  "version": "0.1.0",
+  "description": "Use Palmate from Claude: read your chatbot projects, conversations and statistics, and ask Palmate for changes as change requests.",
+  "author": {"name": "Palmate"},
+  "homepage": "https://palmate.net",
+  "license": "Proprietary",
+  "keywords": ["palmate", "chatbot", "customer support", "change requests"]
+}
