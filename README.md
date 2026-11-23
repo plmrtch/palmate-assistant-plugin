@@ -8,7 +8,7 @@ Palmate's team reviews.
 ## Add it to Claude
 
 1. In claude.ai or the Claude desktop app, open **Customize > Plugins > Add > Add marketplace** and enter
-   `plmrtch/palmate-claude-plugin`. Turn on **Sync automatically** so new versions reach you without any action.
+   `plmrtch/palmate-assistant-plugin`. Turn on **Sync automatically** so new versions reach you without any action.
 2. Install the **palmate** plugin.
 3. On the plugin's **Connectors** tab, connect the Palmate connector and approve the connection on the Palmate page
    that opens (a second factor is required). No client ID is needed.
