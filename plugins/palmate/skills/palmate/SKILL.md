@@ -11,5 +11,5 @@ file. Read them from the connector every time instead of relying on what you rem
 1. At the start of a conversation about a Palmate project, call `get_palmate_guide` with topic `overview` and follow it.
 2. Before helping the user ask for any change, call `get_palmate_guide` with topic `change_request`.
 3. When the user asks about a request they already opened, call `get_palmate_guide` with topic `follow_up`.
-4. If the Palmate tools are not available, the connector is not connected: ask the user to connect it from this
-   plugin's Connectors tab. Do not answer from guesswork.
+4. If the Palmate tools are not available, the connector is not connected: ask the user to connect the Palmate
+   connector from this plugin's settings (in Claude, the plugin's Connectors tab). Do not answer from guesswork.
