@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "palmate": {
+    "Palmate": {
       "type": "http",
       "url": "https://api.palmate.ai/api/palmate-mcp/mcp/"
     }
