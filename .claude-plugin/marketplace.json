@@ -7,9 +7,10 @@
   "plugins": [
     {
       "name": "palmate",
+      "displayName": "Palmate",
       "source": "./plugins/palmate",
       "description": "Use Palmate from Claude: read your chatbot projects, conversations and statistics, and ask Palmate for changes as change requests.",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "category": "productivity",
       "tags": ["palmate", "chatbot", "customer support"]
     }

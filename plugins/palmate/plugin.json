@@ -1,6 +1,16 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "palmate",
-  "version": "0.2.0",
-  "description": "Use Palmate from ChatGPT: read your chatbot projects, conversations and statistics, run your WhatsApp templates and campaigns, and ask Palmate for changes."
+  "version": "0.2.1",
+  "description": "Use Palmate from ChatGPT: read your chatbot projects, conversations and statistics, run your WhatsApp templates and campaigns, and ask Palmate for changes.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Palmate",
+        "shortDescription": "Your Palmate projects in chat",
+        "developerName": "Palmate",
+        "category": "Productivity"
+      }
+    }
+  }
 }
