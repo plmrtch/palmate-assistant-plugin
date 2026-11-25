@@ -1,10 +1,11 @@
 {
   "name": "palmate",
   "displayName": "Palmate",
-  "version": "0.2.3",
-  "description": "Use Palmate from Claude: read your chatbot projects, conversations and statistics, and ask Palmate for changes as change requests.",
+  "version": "0.2.4",
+  "description": "Use Palmate from Claude: read your chatbot projects, conversations and statistics, run your WhatsApp templates and campaigns, and ask Palmate for changes as change requests.",
   "author": {"name": "Palmate"},
-  "homepage": "https://palmate.net",
+  "homepage": "https://palmate.ai",
+  "privacyPolicyUrl": "https://palmate.ai/privacy-policy",
   "license": "Proprietary",
-  "keywords": ["palmate", "chatbot", "customer support", "change requests"]
+  "keywords": ["palmate", "chatbot", "customer support", "change requests", "whatsapp"]
 }

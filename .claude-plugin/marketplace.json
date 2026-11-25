@@ -9,8 +9,8 @@
       "name": "palmate",
       "displayName": "Palmate",
       "source": "./plugins/palmate",
-      "description": "Use Palmate from Claude: read your chatbot projects, conversations and statistics, and ask Palmate for changes as change requests.",
-      "version": "0.2.3",
+      "description": "Use Palmate from Claude: read your chatbot projects, conversations and statistics, run your WhatsApp templates and campaigns, and ask Palmate for changes as change requests.",
+      "version": "0.2.4",
       "category": "productivity",
       "tags": ["palmate", "chatbot", "customer support"]
     }
